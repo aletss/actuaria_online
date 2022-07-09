@@ -16,7 +16,7 @@ La estructura de carpetas está separada por materias obligatorias del plan de e
 La manera sugerida de seguir el curso será a traves de los temas a como van enumerados.
 
 ## Contenidos / Contents
-* [Semestre 1](semestre_1)
+* [Semestre 1](curriculum/semestre_1/)
 
 ## Sobre mí / About me
 Soy ex estudiante de la carrera de Actuaría en FES Acatlán.  
