@@ -19,7 +19,7 @@ La manera sugerida de seguir el curso será a traves de los temas a como van enu
 * [Semestre 1](curriculum/semestre_1/)
 
 ## Sobre mí / About me
-Soy ex estudiante de la carrera de Actuaría en FES Acatlán.  
+Soy egresado de la carrera de Actuaría en FES Acatlán.  
 Durante la carrera lo que más me gustó fue dar asesorías para ayudar a compañeros de semestres previos al mío y resolver retos matemáticos de profesores
 
 Contacto:
