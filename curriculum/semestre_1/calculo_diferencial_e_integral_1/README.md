@@ -1,6 +1,5 @@
 ## OBJETIVO GENERAL
-El alumno empleará los principios matemáticos de las funciones, gráficas, límite, continuidad y derivada
-en la resolución de problemas de optimización.
+El alumno empleará los principios matemáticos de las funciones, gráficas, límite, continuidad y derivada en la resolución de problemas de optimización.
 
 ## ÍNDICE TEMÁTICO
 ### Números reales y naturales
@@ -10,8 +9,7 @@ en la resolución de problemas de optimización.
 2. Caracterización de los números reales por medio de sus propiedades de campo y de orden
 3. El concepto de valor absoluto, sus propiedades, su empleo en la descripción de conjuntos y en el concepto distancia
 4. El principio de inducción y su aplicación en demostraciones
-5. Aplicaciones de la propiedad del
-supremo
+5. Aplicaciones de la propiedad del supremo
 
 ### Funciones y gráficas
 > El alumno enunciará el concepto y las principales operaciones entre funciones, así como lo que son las gráficas, su interpretación y realizará ejercicios prácticos.

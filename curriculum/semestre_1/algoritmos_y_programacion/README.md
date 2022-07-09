@@ -1,6 +1,5 @@
 ## OBJETIVO GENERAL
-El alumno formulará problemas matemáticos y diseñará algoritmos para su resolución e implementación
-en lenguaje C++.
+El alumno formulará problemas matemáticos y diseñará algoritmos para su resolución e implementación en lenguaje C++.
 
 ## ÍNDICE TEMÁTICO
 ### Metodología para el planteamiento de problemas matemáticos y diseño de algoritmos

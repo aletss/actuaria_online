@@ -1,6 +1,5 @@
 ## OBJETIVO GENERAL
-Aplicará mecanismos para solucionar problemas de riesgos en individuos y empresas considerando distintos tipos
-de seguros.
+Aplicará mecanismos para solucionar problemas de riesgos en individuos y empresas considerando distintos tipos de seguros.
 
 ## ÍNDICE TEMÁTICO
 ### El riesgo
@@ -14,9 +13,7 @@ de seguros.
 6. Consideraciones para seleccionar las herramientas para la administración de los riesgos
 
 ### El seguro
-> El alumno identificará al seguro
-como el mecanismo más importante para
-transferir riesgos, desde una perspectiva histórica.
+> El alumno identificará al seguro como el mecanismo más importante para transferir riesgos, desde una perspectiva histórica.
 
 1. Antecedentes históricos
 2. La naturaleza y las funciones del seguro y del reaseguro
