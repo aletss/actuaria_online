@@ -1,4 +1,4 @@
-# Actuaria online
+# Actuaría online
 
 ## Descripción / Description
 Este es un proyecto personal para poder repasar lo aprendido en la carrera con un nuevo punto de vista. 
