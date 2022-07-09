@@ -1,3 +1,5 @@
+![Matemáticas](https://img.shields.io/badge/Campo-Matemáticas-blue)
+
 ## OBJETIVO GENERAL
 El alumno explicará la construcción axiomática de conjuntos y el álgebra de conjuntos; las nociones de funciones y relaciones; el conjunto de los números naturales y el principio de inducción junto con las propiedades del buen orden; el análisis combinatorio y la cardinalidad.
 

@@ -1,3 +1,5 @@
+![Computación](https://img.shields.io/badge/Campo-Computación-yellow)
+
 ## OBJETIVO GENERAL
 El alumno formulará problemas matemáticos y diseñará algoritmos para su resolución e implementación en lenguaje C++.
 

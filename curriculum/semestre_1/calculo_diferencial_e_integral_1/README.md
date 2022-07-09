@@ -1,3 +1,5 @@
+![Matemáticas](https://img.shields.io/badge/Campo-Matemáticas-blue)
+
 ## OBJETIVO GENERAL
 El alumno empleará los principios matemáticos de las funciones, gráficas, límite, continuidad y derivada en la resolución de problemas de optimización.
 

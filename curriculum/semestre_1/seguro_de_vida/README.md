@@ -1,3 +1,5 @@
+![Seguros](https://img.shields.io/badge/Campo-Seguros-red)
+
 ## OBJETIVO GENERAL
 Aplicará mecanismos para solucionar problemas de riesgos en individuos y empresas considerando distintos tipos de seguros.
 

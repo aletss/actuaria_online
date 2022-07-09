@@ -1,3 +1,5 @@
+![Matemáticas](https://img.shields.io/badge/Campo-Matemáticas-blue)
+
 ## OBJETIVO GENERAL
 El alumno analizará las propiedades y operaciones geométricas de los vectores y lugares geométricos, para el estudio de curvas y superficies en R2 , así como las propiedades de las rectas, planos, círculos y cónicas en el plano.
 
