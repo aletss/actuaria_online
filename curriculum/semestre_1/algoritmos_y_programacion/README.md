@@ -1,3 +1,5 @@
+# Algoritmos y Programación
+![Semestre](https://img.shields.io/badge/Semestre-1-white)
 ![Computación](https://img.shields.io/badge/Campo-Computación-yellow)
 
 ## OBJETIVO GENERAL

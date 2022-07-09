@@ -1,3 +1,5 @@
+# Geometría Analítica I
+![Semestre](https://img.shields.io/badge/Semestre-1-white)
 ![Matemáticas](https://img.shields.io/badge/Campo-Matemáticas-blue)
 
 ## OBJETIVO GENERAL
