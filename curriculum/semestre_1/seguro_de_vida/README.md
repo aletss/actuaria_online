@@ -76,6 +76,21 @@ Aplicará mecanismos para solucionar problemas de riesgos en individuos y empres
 1. Aspectos legales generales
 2. Estructura y operación de la seguridad social
 
+## BIBLIOGRAFÍA
+### BÁSICA
+- Ley del Instituto Mexicano del Seguro Social
+- Ley del Sistema de Ahorro para el Retiro
+- Ley General de Instituciones y Sociedades Mutualistas de Seguros
+- Ley sobre el Contrato de Seguro.
+- Vaughan, Emmet J. y Vaughan, Therese. (2002). Essentials of insurance: A risk management perspective.
+2a ed. USA: JohnWiley & Sons.
+- Vaughan, Emmett J. y Vaughan, Therese.(2002). Fundamentals of risk and insurance.9a ed. USA: John
+Wiley & Sons.
+
+### COMPLEMENTARIA
+- Black, Kenneth y George Skipper.(1996).Life insurance.USA: Prentice Hall.
+- Dorfman, Mark S.(1994). Introduction to risk management and insurance.USA: Prentice Hall.
+- Vaughan, Emmett J. (1996). Risk management. USA: John Wiley & Sons.
 
 <hr>
 

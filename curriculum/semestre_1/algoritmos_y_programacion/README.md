@@ -44,6 +44,32 @@ El alumno formulará problemas matemáticos y diseñará algoritmos para su reso
 3. Aplicaciones a la Probabilidad y Estadística
 4. Aplicaciones a las Matemáticas Financieras
 
+## BIBLIOGRAFÍA
+### BÁSICA
+- Ellis, Margaret A.; Stroustrup, Bjarne; Joyanes Aguilar, Luis& Katrib Mora, Miguel (1994). C++:
+Manual de referencia con anotaciones. Wilmington, Delaware, USA: Addison-Wesley Iberoamericana.
+- Deitel, P. J. & Deitel, H. M. (2012). C++: How to program. Boston: Prentice Hall.
+- Jiménez, J. (2010). Matemáticas para la Computación. México: Alfaomega.
+- Malik, D. S. (2011). C++ programming: From problem analysis to program design. Boston, MA:
+Course Technology.
+- Prata, S. (2012).C++ primer plus. S.l.: Addision-Wesley Professional.
+- Savitch, W. J., Vidal, R. E. A., Montañez, C. A. M., Ocampo, B. F. & Luna, C. R. (2007).
+Resolución de problemas con C++. México: Pearson Educación.
+- Scheinerman, E. (2006). C++ for Mathematicians: An Introduction for Students and Professionals.
+USA:Chapman & Hall/CRC
+- Sedgewick, R. (2008). Algorithms in C++. Reading. USA: Addison-Wesley Pub. Co.
+
+### COMPLEMENTARIA
+- Beck, L. L. (1999). System software: An introduction to systems programming. Singapore: Addison-Wesley
+Longman.
+- Bronson, G. J., In Borse, G. J. & Velázquez, A. J. A. (2007). C++ para ingeniería y ciencias. México:
+Thompson.
+- Cairó, B. O. (2005). Metodología de la programación: Algoritmos, diagramas de flujo y programas. México:
+Alfaomega.
+- Joyanes, A. L. (2002). Programación en C: Libro de problemas. Aravaca, Madrid. McGraw-Hill.
+- Joyanes, A. L. (2008). Fundamentos de programación. Aravaca, Madrid: McGraw-Hill Interamericana
+de España.
+
 <hr>
 
 Basado en el plan de estudios de Actuaría FES Acatlán, UNAM.

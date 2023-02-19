@@ -45,6 +45,26 @@ El alumno explicará la construcción axiomática de conjuntos y el álgebra de 
 3. Conjuntos numerables y no numerables
 4. El conjunto de Cantor
 
+## BIBLIOGRAFÍA
+### BÁSICA
+- Albert, A. (1999).Álgebra superior. México: Limusa.
+- Birkhoff, Garrett & Mac Lane, Saunders.(2008). A survey of modern algebra.A K Peters Ltd.
+- Cárdenas, H. et al. (1990). Álgebra superior. México: Trillas.
+- Friedberg, S. H., Insel, A. J. & Spence, L. E. (2003).Linear algebra 4ª ed. USA:Pearson Education.
+- Grimaldi, R. P. (1998). Matemáticas discreta y combinatoria: unaintroducción con aplicaciones. México:
+Pearson Education.
+- Haaser N., Lasalle S., Sullivan J. (1998). Análisis Matemático, Vol. I. México: Trillas.
+- Hernández, F. (2003). Teoría de conjuntos. Una introducción. México. Sociedad Matemática Mexicana.
+- Kurosch A. (1981). Curso de álgebra superior, 3ª ed. Moscú: Mir
+
+### COMPLEMENTARIA
+ Dugundji, J. (1966). Topology, Boston: Allyn and Bacon.
+- Korovkin, P.P. (1974). Desigualdades. Moscú: Mir.
+- Lewin, J., Lewin, M. (1993) An introduction to mathematical analysis.New York. McGraw Hill
+- Máltsev, A.I. (1972): Fundamentos de álgebra lineal. Moscú: Mir.
+- Spivak, M. Calculus. (1992). Cálculo infinitesimal. Barcelona: Reverté.
+- Vargas Méndoza, JoséAntonio. (1986). Álgebra abstracta. México. Limusa.
+
 <hr>
 
 Basado en el plan de estudios de Actuaría FES Acatlán, UNAM.
