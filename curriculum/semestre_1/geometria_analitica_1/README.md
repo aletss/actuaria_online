@@ -41,6 +41,23 @@ El alumno analizará las propiedades y operaciones geométricas de los vectores 
 5. Solución de triángulos
 6. Coordenadas polares
 
+## BIBLIOGRAFÍA
+### BÁSICA
+- Bracho, J. (2009). Introducción analítica a las geometrías. Madrid: Fondo de Cultura Económica.
+- Vargas Méndoza, JoséAntonio. (1986). Álgebra abstracta. México. Limusa.
+- Haaser, N., Lasalle, S., Sullivan, J. (1990). Análisis matemático, Vol. I. México: Trillas.
+- Ramírez, G. A. I. (2004). Geometría analítica: Una introducción a la geometría. México: UNAM,
+Facultad de Ciencias, Coordinación de Servicios Editoriales.
+- Hilbert, D., Cohn Vossen, S. (2000). Geometry and the imagination, México: UNAM, Facultad de Ciencias,
+Vínculos Matemáticos No. 150.
+
+### COMPLEMENTARIA
+- Fuller, Gordon. (2005). Geometría analítica. México: CECSA.
+- Kletenik, D. (1979). Problems in analytic geometry. Moscú: MIR.
+- Lass, H. (1950).Vector and tensoy analysis, USA: McGraw Hill.
+- Preston, G.C., Lovaglia, A.R. (1995). Modern analytic geometry. USA: Harper and Row.
+- Riddle, D.F. (1996). Analytic geometry.6ª ed. USA: Wadsworth Publishing Company.
+
 <hr>
 
 Basado en el plan de estudios de Actuaría FES Acatlán, UNAM.

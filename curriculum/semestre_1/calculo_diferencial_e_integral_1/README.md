@@ -46,6 +46,19 @@ El alumno empleará los principios matemáticos de las funciones, gráficas, lí
 5. Derivadas de orden superior y sus aplicaciones
 6. Reglas de L´Hopital y fórmula de Taylor
 
+## BIBLIOGRAFÍA
+### BÁSICA
+- Apostol, T. M. (2009). Calculus I. Barcelona: Reverté.
+- Bartle, R. G. & Sherbert, D. R. (2010). Introducción al análisis matemático de una variable. 3ª ed. México:
+Limusa-Wiley.
+- Haaser N., Lasalle S., Sullivan J. (1998). Análisis Matemático, Vol. I. México: Trillas.
+- Spivak, M.(2003).Calculus, 2ª ed. México: Reverté.
+- Lang, S. (2002). Short calculus: The original edition of "A first course in calculus". New York: Springer
+
+### COMPLEMENTARIA
+- Courant, R. Fritz, J. (2002). Introducción al cálculo y al análisis matemático Vol. I. México: Limusa- Wiley
+- Kudriavtsev, L. D. (1994). Problemas de análisis matemático: Límite, continuidad, derivabilidad. Moscú. Mir
+
 <hr>
 
 Basado en el plan de estudios de Actuaría FES Acatlán, UNAM.
