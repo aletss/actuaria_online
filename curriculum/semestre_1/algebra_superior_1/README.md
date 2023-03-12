@@ -58,7 +58,7 @@ Pearson Education.
 - Kurosch A. (1981). Curso de álgebra superior, 3ª ed. Moscú: Mir
 
 ### COMPLEMENTARIA
- Dugundji, J. (1966). Topology, Boston: Allyn and Bacon.
+- Dugundji, J. (1966). Topology, Boston: Allyn and Bacon.
 - Korovkin, P.P. (1974). Desigualdades. Moscú: Mir.
 - Lewin, J., Lewin, M. (1993) An introduction to mathematical analysis.New York. McGraw Hill
 - Máltsev, A.I. (1972): Fundamentos de álgebra lineal. Moscú: Mir.
