@@ -9,8 +9,8 @@ El alumno analizará las propiedades y operaciones geométricas de los vectores 
 ### I. Geometría analítica plana
 > El alumno distinguirá el concepto de vector, su interpretación geométrica y las operaciones que se pueden utilizar entre éstos en R2.
 
-1. Coordenadas cartesianas rectangulares
-2. Álgebra de vectores en el plano. Interpretación geométrica
+1. [Coordenadas cartesianas rectangulares](geometria_analitica_plana/coordenadas_cartesianas_rectangulares.md)
+2. [Álgebra de vectores en el plano. Interpretación geométrica](geometria_analitica_plana/algebra_de_vectores_en_el_plano.md)
 3. Paralelismo y ortogonalidad de vectores
 4. El producto escalar
 5. Proyección ortogonal, componentes.

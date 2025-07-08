@@ -9,7 +9,7 @@ El alumno empleará los principios matemáticos de las funciones, gráficas, lí
 ### Números reales y naturales
 > El alumno identificará las características principales de los números reales y realizará ejercicios prácticos.
 
-1. Axioma del supremo
+1. [Axioma del supremo](numeros_reales_y_naturales/axioma_del_supremo.md)
 2. Caracterización de los números reales por medio de sus propiedades de campo y de orden
 3. El concepto de valor absoluto, sus propiedades, su empleo en la descripción de conjuntos y en el concepto distancia
 4. El principio de inducción y su aplicación en demostraciones
