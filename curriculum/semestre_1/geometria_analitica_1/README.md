@@ -6,7 +6,7 @@
 El alumno analizará las propiedades y operaciones geométricas de los vectores y lugares geométricos, para el estudio de curvas y superficies en R2 , así como las propiedades de las rectas, planos, círculos y cónicas en el plano.
 
 ## ÍNDICE TEMÁTICO
-### Geometría analítica plana
+### I. Geometría analítica plana
 > El alumno distinguirá el concepto de vector, su interpretación geométrica y las operaciones que se pueden utilizar entre éstos en R2.
 
 1. Coordenadas cartesianas rectangulares
@@ -18,7 +18,7 @@ El alumno analizará las propiedades y operaciones geométricas de los vectores 
 7. La ecuación vectorial de la recta en R2. Interpretación geométrica
 8. Paralelismo y ortoganalidad de rectas. Intersecciones
 
-### Gráficas de ecuaciones
+### II. Gráficas de ecuaciones
 > El alumno examinará el concepto de lugar geométrico y las diferentes formas para expresarlos algebraicamente en el estudio de curvas.
 
 1. Funciones y sus gráficas
@@ -31,7 +31,7 @@ El alumno analizará las propiedades y operaciones geométricas de los vectores 
 8. La ecuación general cuadrática. Reducción a la forma diagonal
 9. Propiedades comunes de las secciones cónicas
 
-### Trigonometría
+### III. Trigonometría
 > El alumno explicará la importancia de la trigonométrica.
 
 1. Longitud de arco
