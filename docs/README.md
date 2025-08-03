@@ -13,5 +13,5 @@ La estructura de carpetas está separada por materias del plan de estudios de Ac
 
 Se sugiere seguir la seriación descrita por la UNAM.
 
-## Contenidos / Contents
-* [Semestre 1](curriculum/semestre_1)
+# Página web
+https://aletss.github.io/actuaria_online/
