@@ -1,0 +1,10 @@
+{{ "<!-- This is a comment that will appear in the rendered HTML. -->" | safeHTML }}
+<!DOCTYPE html>
+<html lang="es" charset="utf-8">
+<head>
+</head>
+<body>
+      {{ block "main" . }}
+      {{ end }}
+</body>
+</html>
