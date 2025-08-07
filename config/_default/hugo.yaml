@@ -1,0 +1,8 @@
+mainSections:
+  - content
+
+# this only prevents some warning messages when invoking hugo server
+# however, this can be deleted anytime if we want to use these items
+disableKinds:
+  - taxonomy
+  - term
