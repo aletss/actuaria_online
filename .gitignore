@@ -1,0 +1,4 @@
+# ignore dir that gets created by Hugo when previewing the site with `hugo server`
+public
+
+.hugo_build.lock
